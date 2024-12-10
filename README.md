@@ -636,8 +636,8 @@ This project was created as a midterm requirement for ITPC 115 (System Integrati
 
 If you need assistance or have any questions, feel free to reach out to me. Below are my contact details:
 
-- **Name:** Nick Allen S. Estonilo
+- **Name:** Kenn Robie Laigo
 - **University:** Don Mariano Marcos Memorial State University (Mid-La Union Campus)
-- **Email:** nestonilo21132@student.dmmmsu.edu.ph
-- **Phone:** 09690414109
+- **Email:** klaigo20732@student.dmmmsu.edu.ph
+- **Phone:** 09772008429
 <p align="right">(<a href="#library-management-system">back to top</a>)</p>
