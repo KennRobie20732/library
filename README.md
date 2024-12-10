@@ -1,4 +1,4 @@
-<h1 id="library-management-system">Library Management System with All Token Authentication</h1>
+<h1 id="library-management-system">MANAGEMENT OF LIBRARY</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -30,7 +30,7 @@
 
 ## About the Project
 
-The Library Management System offers secure and efficient management of books, authors, users, and associations of them, together with strong searching and cataloging features. It offers a complete CRUD (Create, Read, Update, Delete) on the management of users which comprises registering and authenticating as well as viewing, updating, and deleting user profiles while at the same time book management as well as author and association book-author. Users can quickly search for and catalog books and authors, giving easy access to information. Token-based authentication with validation and usage tracking ensures that only authorized users are able to carry out operations. The book-author relationship table increases flexibility by connecting books to their authors. This system is intended to simplify and secure library data management while maintaining high security standards.
+The Library Management System is designed to make managing books, authors, and users simple, secure, and efficient. It allows users to easily create, view, update, and delete user profiles, as well as manage books and their authors. The system includes powerful search and cataloging features, helping users quickly find books and authors. Token-based authentication ensures that only authorized users can perform actions, and the system tracks usage for added security. The connection between books and authors is managed through a flexible book-author relationship, making it easier to organize and access library data. Overall, the system aims to streamline library management while maintaining strong security.
 
 <p align="right">(<a href="#library-management-system">back to top</a>)</p>
 
